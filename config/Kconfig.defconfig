@@ -49,8 +49,8 @@ config ZMK_DISPLAY
 
 # if ZMK_DISPLAY
 
-# config SPI
-#     default y
+config SPI
+    default y
 
 # config IL0323
 #     default y
